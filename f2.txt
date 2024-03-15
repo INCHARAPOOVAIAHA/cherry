@@ -1,4 +1,7 @@
 git
+<<<<<<< HEAD
 
 git
 git.
+=======
+>>>>>>> 266c560 (Create f2.txt)
